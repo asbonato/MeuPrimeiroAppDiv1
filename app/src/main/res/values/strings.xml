@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MeuPrimeiroAppDiv1</string>
+    <string name="txt_botao_enviar">Enviar</string>
+    <string name="txt_mensagemEditText">Digite a sua mensagem</string>
+</resources>
